@@ -1,7 +1,4 @@
-Team No-20
-
-There are two files submitted:
-    
+ 
     1.ProjC-DAug_and_Training--->This file deals with the different types of data Augmentation that we have tried
                                      combined with different models that we have tried for training and saving the model.
     
